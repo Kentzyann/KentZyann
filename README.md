@@ -6,7 +6,7 @@
 </p>
 
 <p align="left" style="color: white;">
-  - 🌱 I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="20" height="20" /> <strong>Svelte</strong>
+  - 🌱 I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="20" height="20" />
 </p>
 
 <h3 align="left" style="color: white;">Connect with me:</h3>
