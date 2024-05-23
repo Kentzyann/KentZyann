@@ -48,9 +48,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kentzyann&theme=dark" alt="kentzyann" /></p>
 
-<style>
-  body {
-    background-color: black;
-    color: white;
-  }
-</style>
+<div style="display: none;">
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+    </style>
+</div>
