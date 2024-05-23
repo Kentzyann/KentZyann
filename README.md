@@ -1,6 +1,6 @@
 <h1 align="center" style="color: white;">👋🏻 Hi I'm Kent Zyann</h1>
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
+<p align="left" style="color: white;"> 
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a> 
 </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left" style="color: white;">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/kent zyann rubin" target="blank">
+  <a href="https://fb.com/kent zyann rubin" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kent zyann rubin" height="30" width="40" />
   </a>
 </p>
@@ -47,12 +47,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kentzyann&show_icons=true&locale=en&layout=compact&theme=dark" alt="kentzyann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kentzyann&theme=dark" alt="kentzyann" /></p>
-
-<div style="display: none;">
-    <style>
-        body {
-            background-color: black;
-            color: white;
-        }
-    </style>
-</div>
