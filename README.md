@@ -8,9 +8,11 @@
 </div>
 
 ###
-
-<div align="center" style="background-color: violet;">
-  <img height="150" src="https://media1.giphy.com/media/l0HlIKdiw0QKXyT7W/giphy.gif?cid=ecf05e47f0hys4bfx8t41kzivbp75jw8m4hx5u8kdhrfj89w&rid=giphy.gif&ct=g" />
+<div align="center">
+  <video controls>
+    <source src="ling.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ###
@@ -49,6 +51,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=dark&border_color=8A2BE2&bg_color=000000" alt="Kent's GitHub Stats" />
 </div>
-
-###
-
