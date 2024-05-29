@@ -2,8 +2,6 @@
 
 ###
 
-
-
 <div align="center">
   <span>I'm currently learning </span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
@@ -57,7 +55,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img height="150" src="https://media1.giphy.com/media/itHUmB7bJ6CEQ/giphy.gif" alt="Ling from Mobile Legends" />
 </div>
 
 ###
