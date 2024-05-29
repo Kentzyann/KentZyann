@@ -52,10 +52,3 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/itHUmB7bJ6CEQ/giphy.gif" alt="Ling from Mobile Legends" />
-</div>
-
-###
