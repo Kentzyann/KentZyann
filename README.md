@@ -1,18 +1,27 @@
 <h2 align="center">Hi👋🏻 My name is Kent</h2>
 
-###
+<div align="center">
+  <img src="/path/to/your/image.jpg" height="400" alt="Street Punk" style="animation: float 3s infinite;" />
+</div>
+
+<style>
+  @keyframes float {
+    0% {
+      transform: translatey(0px);
+    }
+    50% {
+      transform: translatey(-20px);
+    }
+    100% {
+      transform: translatey(0px);
+    }
+  }
+</style>
 
 <div align="center">
   <span>🌱 I’m currently learning </span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
 </div>
-
-###
-
-https://github.com/Kentzyann/KentZyann/assets/157568342/34e986f2-cd93-4095-a2fe-9865246cc584
-
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -36,14 +45,10 @@ https://github.com/Kentzyann/KentZyann/assets/157568342/34e986f2-cd93-4095-a2fe-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
 </div>
 
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=dark&border_color=8A2BE2&bg_color=000000" alt="Kent's GitHub Stats" />
