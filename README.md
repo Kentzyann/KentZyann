@@ -8,9 +8,9 @@
 </div>
 
 ###
-<div align="center">
+
 https://github.com/Kentzyann/KentZyann/assets/157568342/34e986f2-cd93-4095-a2fe-9865246cc584
-</div>
+
 
 ###
 
