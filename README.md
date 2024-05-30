@@ -7,8 +7,8 @@
 <div align="center">
   <span>🌱 I’m currently learning </span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
-</div>
-
+  <span> and </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="20" alt="svelte logo" />
 <br />
 
 ![ling-street-punk-skin-mobile-legends-uhdpaper com-hd-6 2994](https://github.com/Kentzyann/KentZyann/assets/157568342/69a62ffd-0fd4-42e1-a625-6674a46473ae)
