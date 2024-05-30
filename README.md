@@ -12,7 +12,7 @@
 
 <br />
 
-![tumblr_op6v2g7XX21ttpo92o5_250 gifv](https://github.com/Kentzyann/KentZyann/assets/157568342/1ce6ad1c-5fc7-4ebe-a8f5-513f24719ef4)
+![ling-street-punk-skin-mobile-legends-uhdpaper com-hd-6 2994](https://github.com/Kentzyann/KentZyann/assets/157568342/0efc9336-3fe8-42f5-a77e-080d93f6b6d8)
 
 <br />
 
