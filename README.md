@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=dark&border_color=8A2BE2&bg_color=000000" alt="Kent's GitHub Stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
