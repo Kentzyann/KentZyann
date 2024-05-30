@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <span>I'm currently learning </span>
+  <span>🌱 I’m currently learning </span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
 </div>
 
