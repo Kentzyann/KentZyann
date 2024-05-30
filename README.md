@@ -9,10 +9,7 @@
 
 ###
 <div align="center">
-  <video controls>
-    <source src="ling.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+https://github.com/Kentzyann/KentZyann/assets/157568342/34e986f2-cd93-4095-a2fe-9865246cc584
 </div>
 
 ###
