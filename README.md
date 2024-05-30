@@ -1,27 +1,12 @@
 <h2 align="center">Hi👋🏻 My name is Kent</h2>
 
-<div align="center">
-  <img src="/path/to/your/image.jpg" height="400" alt="Street Punk" style="animation: float 3s infinite;" />
-</div>
-
-<style>
-  @keyframes float {
-    0% {
-      transform: translatey(0px);
-    }
-    50% {
-      transform: translatey(-20px);
-    }
-    100% {
-      transform: translatey(0px);
-    }
-  }
-</style>
 
 <div align="center">
   <span>🌱 I’m currently learning </span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
 </div>
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
