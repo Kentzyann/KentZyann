@@ -1,4 +1,8 @@
-<h2 align="center">Hi👋🏻 My name is Kent</h2>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Sir bon%20papasara%20ko%20please!;Ako%20ray%20gisaligan%20sa%20akong pamilya gud sir.&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
+
+<h3 align="center">Hey there, I'm <a href="https://github.com/Kentzyann">Kentzyann</a></h3>
 
 <div align="center">
   <span>🌱 I’m currently learning </span>
