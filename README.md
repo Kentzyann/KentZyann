@@ -22,6 +22,10 @@
     <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+    <!-- Divinectorweb and W3Schools logos -->
+    <img src="https://img.shields.io/badge/Divinectorweb-000000?style=for-the-badge&logo=divinectorweb&logoColor=white" alt="Divinectorweb">
+    <img src="https://img.shields.io/badge/W3Schools-4CAF50?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools">
+    <!-- Continuing with other logos -->
     <img src="https://img.shields.io/badge/Heroicons-000000?style=for-the-badge&logo=heroicons&logoColor=white" alt="Heroicons">
     <img src="https://img.shields.io/badge/DevDevout-000000?style=for-the-badge&logo=devdevout&logoColor=white" alt="DevDevout">
     <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
@@ -30,7 +34,9 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</div> 
+</div>
+
+
 
 <br />
 
