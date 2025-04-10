@@ -2,11 +2,6 @@
 
 <h3 align="center">Hey👋🏻 there, I'm <a href="https://github.com/Kentzyann">Kentzyann</a></h3>
 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
-  <span> and </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="20" alt="svelte logo" />
-
-<br />
 
 ![ling-street-punk-skin-mobile-legends-uhdpaper com-hd-6 2994](https://github.com/Kentzyann/KentZyann/assets/157568342/0efc9336-3fe8-42f5-a77e-080d93f6b6d8)
 
